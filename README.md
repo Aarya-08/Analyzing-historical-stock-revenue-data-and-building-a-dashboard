@@ -1,8 +1,32 @@
-Project Title
-Analyzing Historical Stock Revenue Data and Building a Dashboard
+## Historical Stock Revenue Analysis and Dashboard
 
-Description
-This project explores historical stock revenue data to uncover trends and insights. Using a Jupyter Notebook, it involves:
-Importing and cleaning the dataset,Performing exploratory data analysis (EDA),Visualizing revenue and stock trends over time,Building an interactive dashboard to present findings
+###  Overview
+This project analyzes historical stock price and revenue data to understand trends and patterns over time. The goal is to visualize stock performance and revenue growth using data analysis and dashboards.
 
-The goal is to help users understand patterns in stock performance and provide an interactive tool for further data exploration.
+###  Dataset
+The dataset includes:
+- Historical stock prices
+- Company revenue data
+- Date-wise financial information
+
+###  Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Dash / interactive visualization tools
+
+###  Steps Followed
+1. Collected historical stock and revenue data
+2. Cleaned and preprocessed the data
+3. Performed exploratory data analysis (EDA)
+4. Created visualizations to observe stock and revenue trends
+5. Built an interactive dashboard to present insights
+
+###  Key Insights
+- Identified revenue growth and decline patterns over time
+- Visualized relationships between stock prices and revenue
+
+###  How to Run
+Run the Jupyter notebook cell by cell to view the analysis and dashboard.
